@@ -1,6 +1,6 @@
 <div align="center">
 <a href="https://github.com/4fnan007/GPTclash">
-     <a href="https://github.com/4fnan007/PixelPal"><img src="https://i.ibb.co/Lvmz5Lt/catbird-image-1-removebg-preview.png" width="400" height="300" alt="logo" </a>
+     <a href="https://github.com/4fnan007/PixelPal"><img src="static\images\myjob.png" width="400" height="300" alt="logo" </a>
 <h1 align=center> PixelPAL - The Character Chat </h1>
 
 Have you ever wondered what it would be like if two iconic characters from movies or TV shows could talk to each other? Well, wonder no more! PixelPAL The Character Chat is an exciting project that brings this concept to life using the power of AI.
